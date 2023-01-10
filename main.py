@@ -1,2 +1,2 @@
-prit("hello world")
-#linha com problema para testar as issues
+print("hello world")
+#linha com problema para testar as issuesh
